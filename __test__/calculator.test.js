@@ -48,3 +48,6 @@ describe("subtract()", () => {
 //       expect(actual).toBe(expected);
 //     });
 // });
+
+
+// To generate the 'coverage' folder and to view test coverage in the terminal, use command: `npm test -- --coverage`
